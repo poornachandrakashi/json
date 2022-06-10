@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
+    "name": "Vinod Jayakeerti",
+    "username": "Executive - Head",
     "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
@@ -24,8 +24,8 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
+    "name": "Parsant Kumar",
+    "username": "Executive - Head",
     "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
@@ -47,8 +47,8 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
+    "name": "Bharath Sagar",
+    "username": "Executive Head",
     "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
+    "name": "Kavitha KM",
+    "username": "Public Relation Head",
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -93,8 +93,8 @@
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
+    "name": "Ajay Rana",
+    "username": "Operation Head",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
@@ -116,8 +116,8 @@
   },
   {
     "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
+    "name": "Ateev Kapoor",
+    "username": "Media and Marketing Head",
     "email": "Karley_Dach@jasper.info",
     "address": {
       "street": "Norberto Crossing",
